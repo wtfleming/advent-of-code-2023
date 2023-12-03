@@ -1,3 +1,3 @@
-# advent-of-code-2022
+# advent-of-code-2023
 
-Advent of code 2022 solutions in Clojure
+Advent of code 2023 solutions in Clojure
